@@ -925,5 +925,3 @@
 -[@alvinjoy93](https://github.com/alvinjoy93)
 
 -[@KhaledKhalil](https://github.com/kh-khalil)
-
--[@rohitsheoran10](https://github.com/rohitsheoran10)
